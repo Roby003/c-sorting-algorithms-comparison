@@ -1,0 +1,28 @@
+1::
+10 100000000
+radix:1_2817.02ms
+count: 1_1373.3ms
+merge: 1_13038.3ms
+shell: 1_12109.1ms
+quick: 1_13178.6ms
+2::
+9999999 99999
+radix:1_4.28ms
+count: 1_0ms
+merge: 1_12.547ms
+shell: 1_20.263ms
+quick: 1_8.312ms
+3::
+9999999 99999999
+radix:1_3290.47ms
+count: 1_1563.12ms
+merge: 1_16983.6ms
+shell: 1_42851.4ms
+quick: 1_14484.9ms
+4::
+9999 99999
+radix:1_4.011ms
+count: 1_0ms
+merge: 1_12.006ms
+shell: 1_16.012ms
+quick: 1_12.005ms
