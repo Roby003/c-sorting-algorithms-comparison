@@ -1,1 +1,1 @@
-# c-sorting-algorithms-comparison
+# c++-sorting-algorithms-comparison
